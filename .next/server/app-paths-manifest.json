@@ -1,0 +1,4 @@
+{
+  "/EditContact/[id]/page": "app/EditContact/[id]/page.js",
+  "/page": "app/page.js"
+}
