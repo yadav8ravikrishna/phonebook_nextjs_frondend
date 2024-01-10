@@ -6,7 +6,7 @@ import axios from 'axios';
 import React from 'react';
 
 const DeleteContactPage = () => {
-    const router = useRouter();
+  const router = useRouter();
   const parms = useParams();
   const contactId = parms.id;
 

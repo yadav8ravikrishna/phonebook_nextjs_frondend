@@ -1,5 +1,5 @@
 "use client";
-import React, { ChangeEvent, useEffect, useState } from 'react';
+import React, { ChangeEvent, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import axios from 'axios';
 import Contacts from '../showcontacts/page';

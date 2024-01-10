@@ -25,7 +25,7 @@ const Contacts = () => {
     };
 
     fetchContacts();
-  }, []);
+  }, [contacts]);
 
   return (
     <div className="container mx-auto mt-10">
